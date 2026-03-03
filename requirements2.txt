@@ -1,5 +1,0 @@
-python-dotenv
-langchain>=0.3
-langchain-openai
-openai
-streamlit
